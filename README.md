@@ -1,7 +1,5 @@
 # Excel-DATA-ANALYSIS-Project--India-CPI-Inflation-Analysis
-
 Analyzing what really drove inflation in India — from food prices and COVID-19 to global crude oil movements, using Excel.
-
 India CPI Inflation Analysis 📊
 
 What actually drives inflation in India?
@@ -12,11 +10,11 @@ This project looks at inflation from five different angles — CPI category cont
 
 The analysis includes:
 
--- CPI Basket: Which broader categories contributed the most to the CPI?
--- Inflation Trends: How did annual inflation change over the years?
--- Food Inflation: How did food prices move month by month?
--- COVID-19: What changed in inflation before and after the March 2020 COVID milestone?
--- Crude Oil: Did movements in imported oil prices move together with CPI categories?
+🧺 CPI Basket: Which broader categories contributed the most to the CPI?
+📈 Inflation Trends: How did annual inflation change over the years?
+🍎 Food Inflation: How did food prices move month by month?
+🦠 COVID-19: What changed in inflation before and after the March 2020 COVID milestone?
+🛢️ Crude Oil: Did movements in imported oil prices move together with CPI categories?
 
 I built the analysis completely in Excel, including data cleaning, category mapping, formulas, correlation analysis, charts and a final dashboard designed to make the findings easy to understand.
 
